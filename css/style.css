@@ -1,0 +1,50 @@
+.mycard {
+  transition: 0.5s;
+}
+
+.mycard:hover {
+  box-shadow: 2px 2px 24px -1px rgba(83, 202, 171, 0.36);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.eliminar {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: none;
+  transform: translate(0px, 5px);
+  z-index: 2;
+}
+
+.my-txt-xxs {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.my-txt-xs {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.my-txt-sm {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.my-txt-md {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.my-txt-lg {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.py {
+  padding-top: 4em;
+  padding-top: 4em;
+}
+
+/*# sourceMappingURL=style.css.map */

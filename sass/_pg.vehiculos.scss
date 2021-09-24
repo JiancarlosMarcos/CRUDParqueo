@@ -1,0 +1,17 @@
+.mycard{
+    transition: .5s;
+}
+.mycard:hover{
+    box-shadow: 2px 2px 24px -1px rgba(83,202,171,0.36);
+    transition: .5s; 
+    cursor: pointer;
+}
+.eliminar{
+    width: 20px;
+    height: 20px;
+    // color: ;
+    border-radius: 50%;
+    background-color: none;
+    transform: translate(0px, 5px);
+    z-index: 2;
+}
